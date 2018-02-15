@@ -1,6 +1,6 @@
 # Grundlagen
 
-In den vorherigen Aufgaben haben wir die `act()`-Methode kennen gelernt. Nun wollen wir uns anschauen, wo das Verhalten dieser Methode denn überhaupt programmiert wurde. Dazu müssen wir den **Quelltext** im Editor öffnen: *Rechtsklick* auf die Klasse *MyKara | Open editor* (oder einfach *Doppelklick*).
+In den vorherigen Aufgaben haben wir die `act()`-Methode kennen gelernt. Nun wollen wir uns anschauen, wo das Verhalten dieser Methode denn überhaupt programmiert wurde. Dazu müssen wir den **Quelltext** im Editor öffnen: *Rechtsklick* auf die Klasse *MyKara* | *Open editor* (oder einfach *Doppelklick*).
 
 ## 1.Karas erste Schritte
 

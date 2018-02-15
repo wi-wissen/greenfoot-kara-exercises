@@ -8,13 +8,13 @@ Für meinen Geschmack ist die Lernkurve ziemlich steil. Daher hier meine Version
 
 ## Unterrichtsmaterial
 
-Java-Dokumentation
+[Java-Dokumentation](https://wi-wissen.github.io/greenfoot-kara-exercises/Java)
 
-Aufgaben Greenfoot kenennlernen
+[Aufgaben Greenfoot kenennlernen](https://wi-wissen.github.io/greenfoot-kara-exercises/Aufgaben%20Greenfoot%20kennenlernen)
 
-Aufgaben Greenfoot Kara ohne Variabeln
+[Aufgaben Greenfoot Kara ohne Variabeln](https://wi-wissen.github.io/greenfoot-kara-exercises/Aufgaben%20Greenfoot%20Kara%20ohne%20Variabeln)
 
-Aufgaben Greenfoot Kara mit Variabeln 
+[Aufgaben Greenfoot Kara mit Variabeln](https://wi-wissen.github.io/greenfoot-kara-exercises/Aufgaben%20Greenfoot%20Kara%20mit%20Variabeln) 
 
 Alle Welten sind in den jeweiligen Ordner zum Download vorhanden. Die Lösungen fehlen aus naheligenden Gründen, werden auf Nachfragen von Lehrkräften aber selbstverständlich gern verschickt. :stuck_out_tongue:
 
