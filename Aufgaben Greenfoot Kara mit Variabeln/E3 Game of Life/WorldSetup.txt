@@ -1,0 +1,44 @@
+World: E3a Game of Life
+X: 12
+Y: 12
+
+
+
+
+
+     .
+    ...
+
+
+
+
+
+
+World: E3b Game of Life
+X: 12
+Y: 12
+
+
+
+
+
+
+   .  .
+   ....
+
+
+
+
+
+World: E3c Game of Life
+X: 50
+Y: 12
+
+
+
+
+
+       ..
+   .... ..
+   ......
+    ....

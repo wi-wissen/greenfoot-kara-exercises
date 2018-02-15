@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Mushroom
+comment0.text=\r\n\ Mushrooms\ can\ be\ pushed\ by\ Kara\ if\ there\ is\ nothing\ behind\ them.\ The\r\n\ Mushrooms\ must\ be\ pushed\ onto\ a\ target\ (the\ Leafs).\ If\ a\ Mushroom\ is\ on\r\n\ target,\ a\ target\ image\ is\ shown.\r\n\ \r\n\ @author\ Marco\ Jakob\ (http\://code.makery.ch)\r\n
+comment1.params=
+comment1.target=Mushroom()
+comment1.text=\r\n\ Create\ a\ Mushroom.\r\n
+comment2.params=onTarget
+comment2.target=Mushroom(boolean)
+comment2.text=\r\n\ Create\ a\ Mushroom.\r\n\ \r\n\ @param\ onTarget\r\n\ \ \ \ \ \ \ \ \ \ \ \ if\ true,\ the\ on-target-image\ is\ used.\r\n
+comment3.params=
+comment3.target=void\ updateImage()
+comment3.text=\r\n\ If\ the\ Mushroom\ is\ on\ target\ (i.e.\ on\ a\ Leaf),\ the\ on-target-image,\r\n\ otherwise\ the\ default\ image\ is\ shown.\r\n
+comment4.params=
+comment4.target=void\ showDefaultImage()
+comment4.text=\r\n\ Shows\ the\ default\ image.\r\n
+comment5.params=
+comment5.target=void\ showOnTargetImage()
+comment5.text=\r\n\ Shows\ the\ on-target-image.\r\n
+comment6.params=world
+comment6.target=void\ addedToWorld(greenfoot.World)
+comment6.text=\r\n\ This\ method\ is\ called\ when\ a\ new\ Mushroom\ is\ added\ to\ the\ world.\ It\r\n\ checks\ whether\ it\ is\ ok\ to\ put\ it\ there.\r\n
+comment7.params=x\ y
+comment7.target=void\ setLocation(int,\ int)
+comment7.text=\r\n\ Overriding\ setLocation(...)\ of\ the\ Actor\ class\ to\ prevent\ dragging\ the\r\n\ Mushroom\ on\ a\ Kara,\ Tree,\ or\ another\ Mushroom.\r\n
+numComments=8

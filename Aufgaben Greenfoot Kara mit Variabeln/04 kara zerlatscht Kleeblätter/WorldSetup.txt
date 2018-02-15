@@ -1,0 +1,9 @@
+World: 04a kara zerlatscht Kleeblätter
+X: 9
+Y: 1
+@.. ... #
+
+World: 04b kara zerlatscht Kleeblätter
+X: 9
+Y: 1
++.. #.. .

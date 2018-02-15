@@ -1,0 +1,34 @@
+World: 10a Immer der Wand entlang
+X: 9
+Y: 9
+    @
+    ####
+   #...#
+  #....#
+ #.....#
+  #..##
+ #..#
+  ###
+
+World: 10b Immer der Wand entlang
+X: 9
+Y: 9
+ #######
+ #.....#
+ #.###.#
+ #.# #.#
+ #.# #.#
+ #.# #.#
+ ### ###
+     @
+
+World: 10c Immer der Wand entlang
+X: 9
+Y: 9
+
+
+
+
+    #
+    @
+

@@ -1,0 +1,13 @@
+World: 03a Kara im Glück
+X: 3
+Y: 3
+...
+.@.
+...
+
+World: 03b Kara im Glück
+X: 3
+Y: 3
+...
+.+.
+...

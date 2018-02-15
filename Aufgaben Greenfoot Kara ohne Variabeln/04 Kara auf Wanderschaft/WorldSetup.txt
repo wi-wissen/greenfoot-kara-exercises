@@ -1,0 +1,19 @@
+World: 04a Kara auf Wanderschaft
+X: 6
+Y: 1
+@    .
+
+World: 04b Kara auf Wanderschaft
+X: 7
+Y: 1
+@     .
+
+World: 04c Kara auf Wanderschaft
+X: 2
+Y: 1
++#
+
+World: 04d Kara auf Wanderschaft
+X: 4
+Y: 1
+@  #

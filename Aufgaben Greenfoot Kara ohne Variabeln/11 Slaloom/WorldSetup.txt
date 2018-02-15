@@ -1,0 +1,24 @@
+World: 11a Slaloom
+X: 9
+Y: 3
+
+@# # # #
+
+
+World: 11b Slaloom
+X: 3
+Y: 9
+ @
+ #
+
+ #
+
+ #
+
+ #
+
+World: 11c Slaloom
+X: 3
+Y: 3
+
+@#

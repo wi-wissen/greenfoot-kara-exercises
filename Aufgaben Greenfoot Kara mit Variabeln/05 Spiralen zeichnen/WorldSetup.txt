@@ -1,0 +1,25 @@
+World: 05 Spiralen zeichnen
+X: 22
+Y: 22
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++
