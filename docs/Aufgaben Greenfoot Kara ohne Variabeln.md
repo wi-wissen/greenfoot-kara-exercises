@@ -21,7 +21,7 @@ public class MyKara extends Kara {
 
 ## 2. Stößt sich kara den Kopf?
 
-1. Öffne die Welt Grundlagen 3-1.world
+1. Öffne 02 Stößt sich Kara den Kopf
 
 2. Ergänze die `act()`-Methode:
 
@@ -37,25 +37,25 @@ else
 }
 ```
 
-3. Öffne nun Grundlagen 3-2.world und prüfe, ob alles klappt.
+3. Prüfe in den anderen Welten, ob auch dort alles klappt.
 
 
  
 
 ## 3. Kara im Glück
 
-1. Öffne 03a.
+1. Öffne 03 Kara im Glück.
 
 2. Prüfe, ob kara auf einem Kleeblatt sitzt. Gib einen Jubelschrei aus. Wenn sie auf keinen Kleeblatt sitzt, soll sie deprimiert ausstoßen, dass sie schon ihr ganzes Leben viel Pech hat.
 
-3. Prüfe dein Programm auch in Grundlagen 03b
+3. Prüfe dein Programm auch in den anderen Welten.
 
 
  
 
 ## 4. Kara auf Wanderschaft
 
-1. Öffne Grundlagen 4a
+1. Öffne die erste Welt in 04 Kara auf Wanderschaft 
 
 2. Gib folgende Befehle in dein Programm ein:
 
@@ -65,9 +65,9 @@ else
    }
 ```
 
-3. Verwende eine andere Schleife, sodass Kara solange auf Wanderschaft ist, bis sie ein Kleeblatt erreicht. Prüfe dein Programmauch an 4b und 4c
+3. Verwende eine andere Schleife, sodass Kara solange auf Wanderschaft ist, bis sie ein Kleeblatt erreicht. Prüfe dein Programm auch in den folgenden beiden Welten in 04 Kara auf Wanderschaft.
 
-4. Öffne 4d suche eine passende Schleife, ob kara so lange laufen zu lassen, bis sie vor einem Baum steht. Prüfe dein Ergebnis an 4c
+4. Öffne die letzte Welt in 04 Kara auf Wanderschaft. Suche eine passende Schleife, die Kara so lange laufen lässt, bis sie vor einem Baum steht.
 
 *Expertenaufgabe: Lass Kara anschließend rufen: „Ohm, Ohm, kommt, meine Freunde! Die Ents ziehen in den Krieg!“*
 
@@ -77,9 +77,9 @@ else
 
 ## 1. Kara und die Blätter
 
-Schreibe ein Programm, das Kara bis zum nächsten Baum führt. Liegt auf einem Feld ein Blatt, soll Kara es aufnehmen; liegt auf einem Feld kein Blatt, eines hinlegen. Bei dem Baum angekommen ist kara fertig. 
+Schreibe ein Programm, das Kara bis zum nächsten Baum führt. Liegt auf einem Feld ein Blatt, soll Kara es aufnehmen; liegt auf einem Feld kein Blatt, eines hinlegen. Bei dem Baum angekommen ist Kara fertig. 
 
-Prüfe dein Programm an 05a-c.
+Prüfe dein Ergebnissen in allen Welten von 05 Kara und die Blätter.
 
 
 
@@ -89,7 +89,7 @@ Prüfe dein Programm an 05a-c.
 
 Kara sucht ein Kleeblatt. Sie weiß, dass eines geradeaus vor ihr liegt - sie muss nur um die Bäume herumlaufen. Glücklicherweise stehen nie zwei Bäume nebeneinander. Schreibe ein Programm, das sie bis zum Kleeblatt führt!
 
-Prüfe dein Programm an 06a-c.
+Prüfe dein Programm in allen Welten von 06 Kleeblattsuche im Wald I.
 
 
 
@@ -97,9 +97,9 @@ Prüfe dein Programm an 06a-c.
 
 Erweiter dein Programm von *Kleeblattsuche im Wald I* so, dass Kara auch mit mehreren nebeneinander stehenden Bäumen zurecht kommt. 
 
-Prüfe dein Programm an 07a-c.
+Prüfe dein Programm in allen Welten von 07 Kleeblattsuche im Wald II.
 
-Hinweis: Die Lösung dieser Aufgabe erfordert eine Schleife in einer Schleife! 
+*Hinweis: Die Lösung dieser Aufgabe erfordert eine Schleife in einer Schleife!* 
 
 
 
@@ -109,12 +109,12 @@ Hinweis: Die Lösung dieser Aufgabe erfordert eine Schleife in einer Schleife!
 ## 1. Kleeblatt-PacMan
 Programmiere Kara so, dass er die Spur von Kleeblättern "auffrisst"! Da du weißt, dass die Spur nie entlang eines Baumes geht, kann das Programm beendet werden, sobald Kara auf einem Kleeblatt vor einem Baum steht. Du kannst selbst bestimmen, ob du auf einem Kleeblatt oder davor starten möchtest.
 
-Prüfe dein Programm an 09a,b.
+Prüfe dein in allen Welten von 09 Kleeblatt-PacMan.
 
 ## 2. Immer der Wand entlang
 Kara möchte einen Wald im Uhrzeigersinn patrouillieren. Programmiere Kara so, dass sie endlos im Uhrzeigersinn um diesen Wald läuft.
 
-Prüfe dein Programm an 10a-c.
+Prüfe dein Programm in allen Welten von 10 Immer der Wand entlang.
 
 ## 3. Slaloom
 ![ohne-variabeln-11](img/ohne-variabeln-11.png)
@@ -123,13 +123,13 @@ Kara möchte zwischen den Bäumen Slalom fahren. Der Anfang des Slaloms ist im B
 
 Wie lange der Parcour ist (wieviele Bäume der Slalom hat), weiß Kara zu Beginn natürlich nicht. Es soll ihr auch egal sein, ob die Bäume horizontal oder vertikal nebeneinander stehen.
 
-
+Prüfe dein Programm in allen Welten von 11 Slaloom.
 
 *Hinweis: Du musst mehrere Bedingungen gleichzeitig prüfen.*
 
  
 
-# Klara erhält neue Funktion
+# Kara erhält neue Funktion
 
 ## Schneller mit Methode
 

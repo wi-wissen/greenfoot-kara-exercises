@@ -59,7 +59,7 @@ werden kann
 
 ## 1. Kara zerlatscht Kleeblätter
 
-1. Öffne das Projekt 04 kara zerlatscht Kleeblätter
+1. Öffne das Projekt 04 Kara zerlatscht Kleeblätter
 2. Kara soll, so lange sie an keinen Baum stößt, auf alle Kleeblätter latschen. Anschließend soll ausgegeben werden, wie viele Kleeblätter Kara zerlatscht hat.
 3. Überprüfe deine Lösung mit den anderen Welten.
 
@@ -73,7 +73,7 @@ werden kann
 
 ![spirale](img/spirale.png)
 
-Programmiere Kara so, dass er eine Kleeblatt-Spirale wie die obige zeichnet. Kara läuft dabei aus deren unteren Ecke los. Jede Seite wird genau 1 Kleeblatt kürzer als die Vorangehende.
+Programmiere Kara so, dass sie eine Kleeblatt-Spirale wie die obige zeichnet. Kara läuft dabei aus deren unteren Ecke los. Jede Seite wird genau 1 Kleeblatt kürzer als die Vorangehende.
 
 
 
@@ -121,7 +121,7 @@ Beim Aufruf einer Methode wird der Wert in die Variable (hier `width` und `heigh
 
 Wir wollen nun mit Kara für die Grossmutter einen Geburtstagskuchen "backen". Der Kuchen wird aus Kleeblättern bestehen.
 
-Öffnen Sie das Szenario 06.
+Öffne die Welt 06 Baking A Cake.
 
 Als Vorbereitung für das Backen sollen folgende Methoden zur Verfügung gestellt werden:
 
@@ -142,11 +142,11 @@ Kara soll mit Kleeblättern ein Rechteck zeichnen, welches den Kuchen symbolisie
 Kara startet in der Ecke unten links und schaut nach rechts. Kara soll nicht nur eine fixe Grösse eines Rechteckes zeichnen können, sondern ein Rechteck mit variabler Breite und Höhe! Der Methodenaufruf `drawRectangle(21, 4)` soll demnach ein Rechteck mit der Breite 21 und der Höhe 4 erzeugen.
 
 
-### 2. Kerzen auf Kuchen
+### 2. Kerzen auf dem Kuchen
 
 ![kerzen auf kuchen](img/kerzen auf kuchen.png)
 
-Öffnen Sie das Szenario 07.
+Öffne die Welt 07 Candles On Cake.
 
 Damit unser Kuchen auch wie ein Geburtstagskuchen aussieht, braucht er natürlich noch ein paar Kerzen. Erweitern Sie Ihr Programm um eine zusätzliche Methode `drawCandles(int count)`, welche die angegebene Anzahl Kerzen auf den Kuchen setzt. 
 
@@ -178,7 +178,7 @@ Die Rückgabe eines Wertes innerhalb einer Methode geschieht mit `return`, gefol
 
 #### 1. Kerzen nach Alter
 
-Öffne das Szenario 08.
+Öffne die Welt 08 Candles For Age.
 
 Wir möchten der Grossmutter **für jedes Jahrzehnt eine Kerze** auf den Kuchen stecken. Da Rotkäppchen nicht genau weiss, wie alt die Grossmutter wird, muss es zuerst ihre Mutter fragen.
 
@@ -195,7 +195,7 @@ intInput("Message...")
 
 ![torte](img/torte.png)
 
-Öffne das Szenario 09.
+Öffne die Welt 09 Layered Cake.
 
 "Backe" mit Kara eine Torte mit einer Schicht für jedes Jahrzehnt, das die Grossmutter über 50 ist. Jede Schicht soll zwei Zeilen haben und soll auf beiden Seiten um zwei Blätter nach Innen gerückt sein. 
 
@@ -204,9 +204,9 @@ intInput("Message...")
 
 ## Pilze suchen
 
-1. Öffne E1.
-2. Hilf kara dabei den Pilz zu finden. Wenn sie ihn hat, soll sie anhalten.
-3. Hat kara den Pilz soll sie angeben, wie weit ervon ihrem Ausgangspunkt entfernt ist.
+1. Öffne E1 Pilze suchen.
+2. Hilf Kara dabei den Pilz zu finden. Wenn sie ihn hat, soll sie anhalten.
+3. Hat Kara den Pilz soll sie angeben, wie weit ervon ihrem Ausgangspunkt entfernt ist.
 
 
 
@@ -214,6 +214,8 @@ intInput("Message...")
 
 Führe Kara durch das Labyrinth zum Kleeblatt. Jede horizontale Baumreihe, außer der Untersten, hat genau einen Ausgang, der in die nächst höhere Zeile führt. Diesen muss Kara jeweils finden. Hinter dem letzten Ausgang wartet das Kleeblatt auf sie.
 Programmiere Kara so, dass sie das Kleeblatt findet und aufnimmt. Dabei soll sie nie an ihrem Ausgang vorbeilaufen, ohne ihn zu benutzen! Zu Beginn schaut Kara immer nach rechts.
+
+Prüfe dein Programm in allen Welten von E2 Labyrinthe.
 
 
 
@@ -228,3 +230,5 @@ Kara möchte dem "Game of Life" zuschauen. Ausgedacht hat sich dieses "Spiel" de
 3. Alle Felder, bei denen die Voraussetzungen der Regeln 1 und 2 nicht zutreffen, sind in der nächsten Generation unbesetzt. Beispiel: Das mittlere Feld mit Kleeblatt (hell) hat zu viele besetzte Nachbarfeldern und "stirbt" daher:
 
 Auch bei relativ einfachen Startwelten (mit vier oder fünf besetzten Feldern) ist es schwierig, die Entwicklung der nächsten Generationen vorauszusehen. Man muss sie wirklich durchspielen!
+
+Beginne mit deinem Programm in der Welt E3 Game of Life.
