@@ -1,6 +1,9 @@
-World: 02 Einfühlsamer Rechner
+World: 02 EinfÃ¼hlsamer Rechner
 X: 9
 Y: 9
-
-
-   @
+        
+        
+   @    
+        
+        
+        

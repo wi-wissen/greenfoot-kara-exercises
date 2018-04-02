@@ -1,9 +1,9 @@
-World: 02a Stößt sich kara den Kopf
+World: 02a StÃ¶ÃŸt sich kara den Kopf
 X: 2
 Y: 1
 @#
 
-World: 02b Stößt sich kara den Kopf
+World: 02b StÃ¶ÃŸt sich kara den Kopf
 X: 2
 Y: 1
-@
+@ 

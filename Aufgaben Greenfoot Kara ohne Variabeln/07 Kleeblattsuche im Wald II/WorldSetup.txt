@@ -1,14 +1,17 @@
 World: 07a Kleeblattsuche im Wald II
 X: 9
 Y: 2
+         
 @## ###. 
 
 World: 07b Kleeblattsuche im Wald II
 X: 9
 Y: 2
+         
 @ #### .  
 
 World: 07c Kleeblattsuche im Wald II
 X: 9
 Y: 2
+         
 @ #  # . 

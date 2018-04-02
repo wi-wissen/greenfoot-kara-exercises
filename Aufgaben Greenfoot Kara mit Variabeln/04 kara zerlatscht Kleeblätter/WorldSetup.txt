@@ -1,9 +1,9 @@
-World: 04a kara zerlatscht Kleebl‰tter
+World: 04a kara zerlatscht Kleebl√§tter
 X: 9
 Y: 1
 @.. ... #
 
-World: 04b kara zerlatscht Kleebl‰tter
+World: 04b kara zerlatscht Kleebl√§tter
 X: 9
 Y: 1
 +.. #.. .

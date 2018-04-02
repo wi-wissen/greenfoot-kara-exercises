@@ -1,14 +1,14 @@
-World: 05a Kara und die Bl‰tter
+World: 05a Kara und die Bl√§tter
 X: 11
 Y: 1
 + . . . ..#
 
-World: 05b Kara und die Bl‰tter
+World: 05b Kara und die Bl√§tter
 X: 11
 Y: 1
-@ ... . #
+@ ... . # 
 
-World: 05c Kara und die Bl‰tter
+World: 05c Kara und die Bl√§tter
 X: 2
 Y: 1
 +#

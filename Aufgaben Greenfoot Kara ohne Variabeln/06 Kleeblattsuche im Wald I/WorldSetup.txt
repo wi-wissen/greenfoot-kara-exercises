@@ -1,14 +1,17 @@
 World: 06a Kleeblattsuche im Wald I
 X: 9
 Y: 2
+         
 @ # # # .
 
 World: 06b Kleeblattsuche im Wald I
 X: 9
 Y: 2
+         
  @# # #. 
 
 World: 06c Kleeblattsuche im Wald I
 X: 9
 Y: 2
+         
     +    
