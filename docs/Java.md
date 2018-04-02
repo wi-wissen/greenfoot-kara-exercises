@@ -108,7 +108,7 @@ Mit Schleifen können Befehle, die einmal geschrieben wurden, mehrmals aufgerufe
 
 ```java
 while (!treeFront()) {
-     kara.move();
+     move();
 }
 ```
 
@@ -136,10 +136,10 @@ Nicht nur Kara kann Funktionen ausführen. Auch du kannst eine Funktion erstelle
 
 ```java
 public void karaDrehtDurch() {
-  kara.turnLeft();
-  kara.turnLeft();
-  kara.turnLeft();
-  kara.turnLeft();
+  turnLeft();
+  turnLeft();
+  turnLeft();
+  turnLeft();
 }
 
 // hier kommt das Hauptprogramm hin, z.B.:
