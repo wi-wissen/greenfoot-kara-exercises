@@ -5,7 +5,7 @@ In den vorherigen Aufgaben haben wir die `act()`-Methode kennen gelernt. Nun wol
 ## 1.Karas erste Schritte
 
 1. Platziere Kara (den Marienkäfer) auf der Welt.
-2. Ergänze dein Programm wie folgt:
+2. Ändere dein Programm wie folgt:
 ```java
 public class MyKara extends Kara {	
 	public void act() {
@@ -14,12 +14,12 @@ public class MyKara extends Kara {
 }
 ```
 3. Erweitere dein Programm, so dass Kara 3 Schritte macht
-4. Lass kara vor jeden Schritt ein Kleeblatt ablegen (Tipp: Schau in der Hilfe nach, wie der Befehl heißt)
+4. Lass Kara vor jeden Schritt ein Kleeblatt ablegen (Tipp: Schau in der Hilfe nach, wie der Befehl heißt)
 
 
  
 
-## 2. Stößt sich kara den Kopf?
+## 2. Stößt sich Kara den Kopf?
 
 1. Öffne 02 Stößt sich Kara den Kopf
 
@@ -29,7 +29,7 @@ public class MyKara extends Kara {
 ```java
 if(treeFront()) 
 {
-	showMessage("Autsch, ein Baum!");
+	displayMessage("Autsch, ein Baum!");
 } 
 else 
 {
@@ -46,7 +46,7 @@ else
 
 1. Öffne 03 Kara im Glück.
 
-2. Prüfe, ob kara auf einem Kleeblatt sitzt. Gib einen Jubelschrei aus. Wenn sie auf keinen Kleeblatt sitzt, soll sie deprimiert ausstoßen, dass sie schon ihr ganzes Leben viel Pech hat.
+2. Prüfe, ob Kara auf einem Kleeblatt sitzt. Gib einen Jubelschrei aus. Wenn sie auf keinen Kleeblatt sitzt, soll sie deprimiert ausstoßen, dass sie schon ihr ganzes Leben viel Pech hat.
 
 3. Prüfe dein Programm auch in den anderen Welten.
 

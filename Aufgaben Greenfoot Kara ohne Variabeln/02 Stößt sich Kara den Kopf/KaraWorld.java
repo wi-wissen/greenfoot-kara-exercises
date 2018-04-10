@@ -45,7 +45,7 @@ public class KaraWorld extends World {
     public static final GreenfootImage ICON_MUSHROOM_ON_TARGET = findOnTargetImage(ICON_MUSHROOM, "_on_target");
     public static final GreenfootImage ICON_TREE = new Tree().getImage();
     public static final GreenfootImage ICON_KARA = new Kara().getImage();
-    public static final GreenfootImage ICON_MY_KARA = new MyKara().getImage();
+    public static final GreenfootImage ICON_MY_KARA = new MyKaraIO().getImage();
     
 	public static final String WORLD_SETUP_TITLE_KEY = "World:";
 	public static final String KARA_DIRECTION_KEY = "Kara:";
@@ -135,7 +135,7 @@ public class KaraWorld extends World {
 	private static WorldSetup loadWorldSetupFromFile(String worldFile) {
 		WorldSetup[] worldSetups = null;
 		try {
-			worldSetups = WorldSetup.parseFromFile(worldFile, MyKara.class, WORLD_SETUP_TITLE_KEY, 
+			worldSetups = WorldSetup.parseFromFile(worldFile, MyKaraIO.class, WORLD_SETUP_TITLE_KEY, 
 					KARA_DIRECTION_KEY);
 			
 			if (worldSetups == null || worldSetups.length == 0) {
@@ -223,7 +223,7 @@ public class KaraWorld extends World {
 			for (int x = 0; x < worldSetup.getWidth(); x++) {
 				switch (worldSetup.getActorTypeAt(x, y)) {
 				case WorldSetup.KARA:
-					addObject(new MyKara(), x, y);
+					addObject(new MyKaraIO(), x, y);
 					break;
 				case WorldSetup.TREE:
 					addObject(new Tree(), x, y);
@@ -239,7 +239,7 @@ public class KaraWorld extends World {
 					addObject(new Leaf(), x, y);
 					break;
 				case WorldSetup.KARA_LEAF:
-					addObject(new MyKara(), x, y);
+					addObject(new MyKaraIO(), x, y);
 					addObject(new Leaf(), x, y);
 					break;
 				}
