@@ -123,7 +123,7 @@ do {
 Hier geht Kara so lange vorwärts, bis Kara auf einem Kleeblatt steht. (Beachte, dass die Frage nach einem Baum vor und eine nach einem Kleeblatt nach dem Laufen gestellt werden sollte)
 
 ```java
-for (i = 0; i < 5; i++) {
+for (int i = 0; i < 5; i++) {
      move();
 }
 ```

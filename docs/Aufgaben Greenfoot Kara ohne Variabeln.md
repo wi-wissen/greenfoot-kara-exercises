@@ -60,7 +60,7 @@ else
 2. Gib folgende Befehle in dein Programm ein:
 
 ```java
-   for(i = 0; i < 5; i++) {
+   for(int i = 0; i < 5; i++) {
         move();
    }
 ```
